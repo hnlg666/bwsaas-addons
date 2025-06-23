@@ -1,5 +1,5 @@
 think-addons
-The ThinkPHP 6 Addons Package
+The ThinkPHP 6/8 Addons Package
 
 ## 安装
 > composer require hnlg666/bwsaas-addons
